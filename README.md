@@ -54,13 +54,64 @@ Repositório contendo todas as atividades desenvolvidas na disciplina de Process
    <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/8602eedd-11af-4c46-80bb-f4cc4919e291" alt="drawing" width="600"/>
    
 
-2.3 Calculo do filtro da média - Scipy
+2.4 Calculo do filtro da média - Scipy
 
    <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/3db986df-5e9d-4599-88c4-5c80361cd2bb" alt="drawing" width="600"/>
    <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/4a09276b-43b2-45b8-abc9-62aa5bbc007a" alt="drawing" width="600"/>
    <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/a9585d68-2499-455d-bb65-07d99a4425b0" alt="drawing" width="600"/>
 
 
+2.5 Calculo do filtro da mediana - Numpy
+
+   <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/6623ef72-377f-4809-9d40-104e4f8f4ca4" alt="drawing" width="600"/>
+   <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/0c726852-d72e-43af-be4c-080a33e6eeb2" alt="drawing" width="600"/>
+   <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/35a93a1a-1de5-4c3c-a0be-99a346930f9c" alt="drawing" width="600"/>
+   
+
+2.6 Calculo do filtro da mediana - Pillow
+
+   <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/db7d49f6-939f-486d-96dd-4a224a7b9523" alt="drawing" width="600"/>
+   <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/184a9d94-d41a-4922-bc2c-8dd22ca51dd4" alt="drawing" width="600"/>
+   <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/52b8d398-d7ff-4a98-9211-7263ba54f2f7" alt="drawing" width="600"/>
 
 
+2.7 Calculo do filtro da mediana- OpenCV
 
+   <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/2f38c3bc-54dd-4176-8899-ed4c4be021d5" alt="drawing" width="600"/>
+   <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/00d9e630-7ab8-4e28-aa22-4930a4bc9574" alt="drawing" width="600"/>
+   <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/543e611c-43b7-447c-9526-f4f2509c1527" alt="drawing" width="600"/>
+   
+
+2.8 Calculo do filtro da mediana - Scipy
+
+   <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/fed0d9d8-0eff-44cf-a15b-e394b24c7bca" alt="drawing" width="600"/>
+   <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/09621bb0-0607-4161-95ba-c4cd7237ee1e" alt="drawing" width="600"/>
+   <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/d6fb310e-8622-421a-888d-0b908d14d2b5" alt="drawing" width="600"/>
+
+#### 3. Transformações Geométricas 
+3.1 Redução de escala em 1.5x e aumentar em 2.5x - Numpy
+
+   <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/56390872-0439-4c2d-8266-c7581aeaad6a" alt="drawing" width="600"/>
+   <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/5f72584b-0996-40c7-a389-b67ab4d69935" alt="drawing" width="600"/>
+   <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/8b45084a-631f-4161-a433-a237171af4bc" alt="drawing" width="600"/>
+   
+
+3.2 Redução de escala em 1.5x e aumentar em 2.5x - Pillow
+
+   <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/b4b989a4-b414-4d29-a73b-ecf00f8af497" alt="drawing" width="600"/>
+   <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/ddd0475c-a840-436b-a11c-0d6e5a896bf2" alt="drawing" width="600"/>
+   <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/22eb76c4-e265-400b-9e65-31fe1233da84" alt="drawing" width="600"/>
+
+
+3.3 Redução de escala em 1.5x e aumentar em 2.5x - OpenCV
+
+   <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/11f77fe9-ae2e-49e6-a932-6d7d2b35eecc" alt="drawing" width="600"/>
+   <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/649503c4-fc21-433b-a58c-743faa9cfaa7" alt="drawing" width="600"/>
+   <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/e309f8cd-f7d6-4b2c-9396-49d0a6bb0640" alt="drawing" width="600"/>
+   
+
+3.4 Redução de escala em 1.5x e aumentar em 2.5x - Scipy
+
+   <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/ec5fd915-6162-47de-97c2-064bebb7e834" alt="drawing" width="600"/>
+   <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/7f1d5f9f-dfba-43e9-b826-456fd53e20dc" alt="drawing" width="600"/>
+   <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/0ca92abb-a278-4829-996e-bc187b5ea530" alt="drawing" width="600"/>
