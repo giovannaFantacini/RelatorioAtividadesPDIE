@@ -115,3 +115,30 @@ Repositório contendo todas as atividades desenvolvidas na disciplina de Process
    <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/ec5fd915-6162-47de-97c2-064bebb7e834" alt="drawing" width="600"/>
    <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/7f1d5f9f-dfba-43e9-b826-456fd53e20dc" alt="drawing" width="600"/>
    <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/0ca92abb-a278-4829-996e-bc187b5ea530" alt="drawing" width="600"/>
+
+3.5 Rotação em 45º, 90º e 100º - Numpy
+
+   <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/98af267e-83ab-491e-88e2-35fe1289dea0" alt="drawing" width="600"/>
+   <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/9a37543c-a97d-49c9-8348-356768377f8f" alt="drawing" width="600"/>
+   <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/d701b608-659a-4a3a-9d50-c3e0d800dcb3" alt="drawing" width="600"/>
+   
+
+3.6 Rotação em 45º, 90º e 100º - Pillow
+
+   <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/84abd4e0-60cc-4062-93a0-5452c89b2677" alt="drawing" width="600"/>
+   <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/9e4aa66c-a1b7-4228-8fe4-d72bafe783a9" alt="drawing" width="600"/>
+   <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/8e9bfce5-26db-4431-b6ba-6772d4a3f9e9" alt="drawing" width="600"/>
+
+
+3.7 Rotação em 45º, 90º e 100º - OpenCV
+
+   <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/649991ec-43de-49ec-be89-a19c9ee0ae4e" alt="drawing" width="600"/>
+   <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/088e9727-e7a7-49cb-bc99-2a842d4843bd" alt="drawing" width="600"/>
+   <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/a6e9d7ee-3826-4d1a-9e4c-6784a7d383a2" alt="drawing" width="600"/>
+   
+
+3.8 Rotação em 45º, 90º e 100º - Scipy
+
+   <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/72cfaaf1-3dd5-4977-a8d8-cc043833582b" alt="drawing" width="600"/>
+   <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/34f9a9cb-56c4-4ec7-95f9-12f16aab14c3" alt="drawing" width="600"/>
+   <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/a9161461-2819-445e-9d2f-a0c0463e415f" alt="drawing" width="600"/>
