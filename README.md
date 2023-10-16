@@ -196,3 +196,30 @@ Repositório contendo todas as atividades desenvolvidas na disciplina de Process
    <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/3235199b-b6c7-424c-82a0-bd7b3a1dbfe3" alt="drawing" width="600"/>
    <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/708b8b12-16a4-4964-b308-eb65128205d5" alt="drawing" width="600"/>
    <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/4dec2500-0f51-45e5-9235-54f9d2d33b32" alt="drawing" width="600"/>
+
+## Transformação de Intensidade 
+#### 1. Transformação logarítmica
+
+   <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/e27c8dfc-6679-4053-ae1c-1960ef49d1d9" alt="drawing" width="600"/>
+   <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/d63d8d26-ac5a-4472-9fca-bc82b0b44046" alt="drawing" width="600"/>
+
+#### 2. Transformação de Potência
+
+   <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/b8c52df9-9c03-495d-ae2e-9ef7860d0845" alt="drawing" width="600"/>
+   <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/c853d7f3-8593-4f2e-8336-8ea8771454c4" alt="drawing" width="600"/>
+
+#### 3. Plano de Bits
+
+   <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/c9ddb431-ef90-446f-b8d2-59dc4121cef6" alt="drawing" width="600"/>
+   <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/d7406966-6f27-4e19-9c8e-87368de18a67" alt="drawing" width="600"/>
+
+#### 4. Equalização do Histograma 
+4.1 
+
+   <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/c5048639-94c9-4fb3-83e1-711f3c4e29b3" alt="drawing" width="600"/>
+   <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/9de43cb8-ad0f-43d2-af83-068af2e02860" alt="drawing" width="600"/>
+   
+4.2
+
+   <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/37d55a5a-4203-495a-aa4a-cc0ca3d14ae6" alt="drawing" width="600"/>
+   <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/0801f309-5b8f-44a2-aa06-cfb19dbd70be" alt="drawing" width="600"/>
