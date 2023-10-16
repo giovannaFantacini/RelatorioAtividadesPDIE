@@ -142,3 +142,57 @@ Repositório contendo todas as atividades desenvolvidas na disciplina de Process
    <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/72cfaaf1-3dd5-4977-a8d8-cc043833582b" alt="drawing" width="600"/>
    <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/34f9a9cb-56c4-4ec7-95f9-12f16aab14c3" alt="drawing" width="600"/>
    <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/a9161461-2819-445e-9d2f-a0c0463e415f" alt="drawing" width="600"/>
+
+3.9 Translação X = 50 e Y = -30 - Numpy
+
+   <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/66fc5409-c8af-42fe-baa7-fc5cd22066dd" alt="drawing" width="600"/>
+   <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/767acc79-7f30-4dcb-ba59-81339eb63c47" alt="drawing" width="600"/>
+   <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/f66e8372-7623-4bd8-bcea-1463a4c340ab" alt="drawing" width="600"/>
+   
+
+3.10 Translação X = 50 e Y = -30 - Pillow
+
+   <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/76ba16b4-c5ac-4a05-9574-03ddc4e51860" alt="drawing" width="600"/>
+   <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/384932ac-a0c2-461e-8a86-ba06bd49b99f" alt="drawing" width="600"/>
+   <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/f7b021b1-3073-4526-93e6-ee061748b454" alt="drawing" width="600"/>
+
+
+3.11 Translação X = 50 e Y = -30 - OpenCV
+
+   <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/174764a5-d304-4cda-b8d2-d017c7095dad" alt="drawing" width="600"/>
+   <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/3b76517e-1165-45f1-b213-e62996f36d99" alt="drawing" width="600"/>
+   <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/528e7c42-8e7b-4b0c-98b7-c6d37ad14360" alt="drawing" width="600"/>
+   
+
+3.12 Translação X = 50 e Y = -30 - Scipy
+
+   <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/42630f1c-66b2-44d6-861a-a7c738d0b6d0" alt="drawing" width="600"/>
+   <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/2aaa245c-6880-4f5c-b516-81477b93a6dd" alt="drawing" width="600"/>
+   <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/ef232e37-0175-4c1e-b550-9b97a2e99269" alt="drawing" width="600"/>
+
+3.13 Translação em 35 pixel no eixo X, 45 eixo Y - Numpy
+
+   <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/1c066891-9107-41cd-ba99-1566bd7803c2" alt="drawing" width="600"/>
+   <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/5331125e-22d2-4302-b040-a7f217dd1e92" alt="drawing" width="600"/>
+   <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/4559dde1-108e-4035-8298-3509c3b3a1f4" alt="drawing" width="600"/>
+   
+
+3.14 Translação em 35 pixel no eixo X, 45 eixo Y - Pillow
+
+   <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/164cc68d-ad1d-4c3b-8738-fa3d291af416" alt="drawing" width="600"/>
+   <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/f0be7eed-d10e-40fc-82b8-25fa5c4533b3" alt="drawing" width="600"/>
+   <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/89a7bb96-efb1-4181-bf96-ada097e5ce4c" alt="drawing" width="600"/>
+
+
+3.15 Translação em 35 pixel no eixo X, 45 eixo Y - OpenCV
+
+   <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/8819b51a-d9a1-4451-bfb2-8a6c188b20aa" alt="drawing" width="600"/>
+   <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/c1c0acdf-2958-4a5b-81df-dcea17ec0b77" alt="drawing" width="600"/>
+   <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/c213fd85-6948-45ed-b5a9-866bddb1ba16" alt="drawing" width="600"/>
+   
+
+3.16 Translação em 35 pixel no eixo X, 45 eixo Y - Scipy
+
+   <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/3235199b-b6c7-424c-82a0-bd7b3a1dbfe3" alt="drawing" width="600"/>
+   <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/708b8b12-16a4-4964-b308-eb65128205d5" alt="drawing" width="600"/>
+   <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/4dec2500-0f51-45e5-9235-54f9d2d33b32" alt="drawing" width="600"/>
