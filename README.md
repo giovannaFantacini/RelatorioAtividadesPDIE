@@ -223,3 +223,5 @@ Repositório contendo todas as atividades desenvolvidas na disciplina de Process
 
    <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/37d55a5a-4203-495a-aa4a-cc0ca3d14ae6" alt="drawing" width="600"/>
    <img src="https://github.com/giovannaFantacini/RelatorioAtividadesPDIE/assets/74154716/0801f309-5b8f-44a2-aa06-cfb19dbd70be" alt="drawing" width="600"/>
+
+### Mais resultados podem ser encontrados diretamente nos arquivos disponibilizados
